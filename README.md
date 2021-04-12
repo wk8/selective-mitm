@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/wk8/selective-mitm.svg?branch=master)](https://travis-ci.com/wk8/selective-mitm)
+
 # go-selective-mitm
 
 SSL-capable selective man-in-the-middle proxy as a Golang library; by selective we mean that you decide which requests get man-in-the-middle'd, which don't, and which certificates to use for those that do.
